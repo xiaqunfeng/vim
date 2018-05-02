@@ -6,11 +6,11 @@
 
 > 实践系统环境：mac 
 
-分章节来写，每个章节内容均在一个独立的markdown文件中呈现
+分小节来写，每个章节内容均在一个独立的markdown文件中呈现
 
-README.md 中仅简要展示各章节的要点
+README.md 中仅简要展示各小节的要点
 
-### 章节
+### 小节
 
 1、[vim/mvim编辑器的配置](ide-plug-configuration.md)
 
@@ -38,3 +38,11 @@ README.md 中仅简要展示各章节的要点
 
 - vim-instant-markdown
 - markdown-preview.vim
+
+5、vim上多文件编辑（TODO）
+
+- 标签
+- 窗口
+- 缓冲区
+
+6、[小tricks](tricks.md)
