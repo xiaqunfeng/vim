@@ -1,6 +1,30 @@
-## IDE的配置及插件的安装
+## vim/mvim编辑器的配置
 
-TODO
+**目  录**
+* [将vim打造成IDE](#将vim打造成ide)
+* [安装Vundle](#安装vundle)
+* [实用插件](#实用插件)
+   * [YouCompleteMe](#youcompleteme)
+   * [ctags](#ctags)
+   * [cscop](#cscop)
+   * [nerdtree](#nerdtree)
+   * [tagbar](#tagbar)
+   * [SrcExpl](#srcexpl)
+   * [surround](#surround)
+   * [Airline](#airline)
+   * [Tabular](#tabular)
+   * [Solarized](#solarized)
+   * [syntastic](#syntastic)
+   * [nerdcommenter](#nerdcommenter)
+* [问题汇总](#问题汇总)
+   * [1、关于YCM](#1关于ycm)
+   * [2、关于ctags](#2关于ctags)
+* [一些vim的设置](#一些vim的设置)
+* [自己的配置](#自己的配置)
+
+## 将vim打造成IDE
+
+如下，根据自己的需求安装插件，可实现类似于source insight的代码IDE。
 
 ## 安装Vundle
 
