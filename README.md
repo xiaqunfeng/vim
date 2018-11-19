@@ -51,3 +51,8 @@
 - 命令行粘贴
 - 字符查找
 - TO BE ADD...
+
+7、[chrome上神器——vimium](vimium.md)
+
+* vimium安装和介绍
+* 常用快捷键使用总结
