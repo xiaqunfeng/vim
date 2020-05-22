@@ -102,3 +102,14 @@ ctrl + w
 `:.!<command>`，比如插入时间：`:.!date`
 
 >插入的内容会覆盖当前行的内容，所以要在空白行进行
+
+### linux下中文乱码
+
+在 ~/.vimrc 中新增如下配置：
+
+```
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
+```
+
